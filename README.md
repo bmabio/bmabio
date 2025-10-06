@@ -2,12 +2,7 @@
 Hi 👋 I'm Oliver Drechsler
 </h1>
 
-<img align="right" width="100" height="145" src="https://github.com/OliverDrechsler/OliverDrechsler/blob/main/img/oli_d.jpg">
  
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=oliverdrechsler&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
 **DevOps Engineer, Cloud Architect, Trail-Runner, Marathon Runner, Triathlate and Dad**  
 
 
